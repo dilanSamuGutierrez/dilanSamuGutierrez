@@ -44,7 +44,7 @@
 
 <div align="center" style="text-align: center;">
   <h2>🌍 Let's Connect</h2>
-  <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+  <p>Email: <a href="mailto:dsgm2220@gmail.com">dsgm2220@gmail.com</a></p>
   <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">LinkedIn Profile</a></p>
   <p>Portfolio: <a href="https://yourportfolio.com">yourportfolio.com</a></p>
 </div>
@@ -53,7 +53,7 @@
 
 <div align="center" style="text-align: center;">
   <h2>💡 Fun Facts & Curiosities</h2>
-  <p>📅 I’ve been coding for over <strong>XX years</strong> – each line of code is an adventure!</p>
+  <p>📅 I’ve been coding for over <strong>2 years</strong> – each line of code is an adventure!</p>
   <p>💻 Favorite code editor: <strong>VS Code</strong> with a dark theme 🌑</p>
   <p>☕ Can't code without a good cup of coffee!</p>
   <p>🌐 When I'm not coding, you might find me hiking, traveling, or experimenting with new tech gadgets.</p>
