@@ -44,7 +44,7 @@
   <h2>🌍 Let's Connect</h2>
   <p>Email: <a href="mailto:dsgm2220@gmail.com">dsgm2220@gmail.com</a></p>
   <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">LinkedIn Profile</a></p>
-  <p>Portfolio: <a href="https://yourportfolio.com">yourportfolio.com</a></p>
+  <p>Portfolio: <a href="https://yourportfolio.com](https://dilansamugutierrez.github.io/Portafolio/">Portafolio</a></p>
 </div>
 
 <br>
