@@ -29,15 +29,6 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </p>
 </div>
-
-<br>
-
-<div align="center" style="text-align: center;">
-  <h2>📈 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" width="400" style="margin-right: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" width="400">
-</div>
-
 <br>
 
 <div align="center" style="text-align: center;">
